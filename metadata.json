@@ -1,0 +1,6 @@
+{
+  "name": "StudyGuideHub",
+  "description": "An interactive, educational visualizer for common Data Structures and Algorithms with step-by-step executions, performance analysis, and clean graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
