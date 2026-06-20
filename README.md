@@ -1,6 +1,6 @@
 # 📚 StudyGuideHub
 
-> **An AI-powered interactive platform for mastering Data Structures & Algorithms through visualizations, coding practice, structured roadmaps, and intelligent tutoring.**
+An AI-powered interactive platform for mastering Data Structures & Algorithms through visualizations, coding practice, structured roadmaps, and intelligent tutoring.
 
 StudyGuideHub is a modern full-stack educational platform designed to simplify Data Structures and Algorithms (DSA) learning. It combines interactive algorithm visualizations, hands-on coding practice, comprehensive study guides, and an AI-powered tutor to help students prepare for coding interviews and strengthen problem-solving skills.
 
