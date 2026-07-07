@@ -1,9 +1,9 @@
 import React from 'react';
 
 interface CodeViewerProps {
-  pseudocode: string[];
-  currentLine?: number;
-}
+  pseudocode: string[]; 
+  currentLine?: number; 
+} 
 
 export default function CodeViewer({ pseudocode, currentLine }: CodeViewerProps) {
   if (!pseudocode || pseudocode.length === 0) return null;
