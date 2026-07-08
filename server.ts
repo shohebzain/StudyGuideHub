@@ -20,7 +20,7 @@ function getGenAI(): GoogleGenAI {
         headers: {
           'User-Agent': 'aistudio-build',
         }
-      }
+      } 
     });
   }
   return aiClient;
