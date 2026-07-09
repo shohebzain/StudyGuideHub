@@ -4,7 +4,7 @@ export interface StudyGuideItem {
   concept: string;
   whyLearn: string;
   analogy: string;
-  useCases: string[];
+  useCases: string[]; 
 }
 
 export const STUDY_GUIDES: Record<string, StudyGuideItem> = {
