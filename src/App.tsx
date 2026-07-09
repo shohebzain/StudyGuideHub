@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import CodeViewer from './components/CodeViewer';
 import ComplexityPanel from './components/ComplexityPanel';
-import AlgoBot from './components/AlgoBot';
+import AlgoBot from './components/AlgoBot'; 
 import StudyGuideHub from './components/StudyGuideHub';
 
 // Visualizer imports
