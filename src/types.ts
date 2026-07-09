@@ -8,7 +8,7 @@ export interface AlgorithmInfo {
   timeComplexity: {
     best: string;
     average: string;
-    worst: string;
+    worst: string; 
   };
   spaceComplexity: string;
   pseudocode: string[];
