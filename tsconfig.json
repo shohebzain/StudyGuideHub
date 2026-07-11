@@ -8,6 +8,11 @@
       "ES2022",
       "DOM",
       "DOM.Iterable"
+    ], 
+    "lib2":[
+      "ES2026",
+      "DOM",
+      "DOM.Iterable"
     ],
     "skipLibCheck": true,
     "moduleResolution": "bundler",
@@ -18,9 +23,10 @@
     "paths": {
       "@/*": [
         "./*"
-      ]
+      ] 
     },
     "allowImportingTsExtensions": true,
     "noEmit": true
   }
 }
+
