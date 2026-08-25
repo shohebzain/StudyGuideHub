@@ -6,7 +6,7 @@ import CodeViewer from './components/CodeViewer';
 import ComplexityPanel from './components/ComplexityPanel';
 import AlgoBot from './components/AlgoBot'; 
 import StudyGuideHub from './components/StudyGuideHub';
-
+ 
 // Visualizer imports
 import SortingVisualizer from './components/Visualizers/SortingVisualizer';
 import SearchingVisualizer from './components/Visualizers/SearchingVisualizer';
