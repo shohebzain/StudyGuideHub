@@ -9,7 +9,7 @@ interface SortingVisualizerProps {
   currentStepIndex: number;
   setCurrentStepIndex: (idx: number | ((prev: number) => number)) => void;
   isPlaying: boolean;
-  setIsPlaying: (playing: boolean) => void; 
+  setIsPlaying: (playing: boolean) => void;  
   speed: number; 
   setSpeed: (speed: number) => void;
   animationSteps: VizStep[];
