@@ -5,7 +5,7 @@ import { audioService } from '../../utils/audio';
 // Character trie branch node definition
 interface TrieNodeVisual {
   char: string;
-  isWord: boolean;
+  isWord: boolean; 
   id: string;
   children: { [key: string]: TrieNodeVisual };
 }
