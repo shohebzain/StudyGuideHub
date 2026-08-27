@@ -4,7 +4,7 @@ import { audioService } from '../../utils/audio';
 
 interface LinkedNode {
   id: string;
-  value: number;
+  value: number; 
 }
 
 export default function LinkedListVisualizer() {
