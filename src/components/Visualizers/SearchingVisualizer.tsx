@@ -14,7 +14,7 @@ interface SearchingVisualizerProps {
   setSpeed: (speed: number) => void;
   animationSteps: VizStep[];
   setAnimationSteps: (steps: VizStep[]) => void;
-}
+} 
 
 export default function SearchingVisualizer({
   currentAlgo,
