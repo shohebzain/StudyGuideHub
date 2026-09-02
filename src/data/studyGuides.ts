@@ -6,7 +6,7 @@ export interface StudyGuideItem {
   analogy: string;
   useCases: string[]; 
 }
-
+ 
 export const STUDY_GUIDES: Record<string, StudyGuideItem> = {
   bubble_sort: {
     id: "bubble_sort",
