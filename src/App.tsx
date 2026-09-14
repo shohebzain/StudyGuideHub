@@ -3,7 +3,7 @@ import { AlgorithmCategory, ALGORITHMS_LIST, AlgorithmInfo, VizStep } from './ty
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import CodeViewer from './components/CodeViewer';
-import ComplexityPanel from './components/ComplexityPanel';
+import ComplexityPanel from './components/ComplexityPanel'; 
 import AlgoBot from './components/AlgoBot'; 
 import StudyGuideHub from './components/StudyGuideHub'; 
  
