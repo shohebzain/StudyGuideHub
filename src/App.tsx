@@ -9,7 +9,7 @@ import StudyGuideHub from './components/StudyGuideHub';
  
 // Visualizer imports
 import SortingVisualizer from './components/Visualizers/SortingVisualizer'; 
-import SearchingVisualizer from './components/Visualizers/SearchingVisualizer'; 
+import SearchingVisualizer from './components/Visualizers/SearchingVisualizer';  
 import StackQueueVisualizer from './components/Visualizers/StackQueueVisualizer';
 import LinkedListVisualizer from './components/Visualizers/LinkedListVisualizer';
 import TreeVisualizer from './components/Visualizers/TreeVisualizer';
