@@ -8,7 +8,7 @@ import AlgoBot from './components/AlgoBot';
 import StudyGuideHub from './components/StudyGuideHub'; 
  
 // Visualizer imports
-import SortingVisualizer from './components/Visualizers/SortingVisualizer';
+import SortingVisualizer from './components/Visualizers/SortingVisualizer'; 
 import SearchingVisualizer from './components/Visualizers/SearchingVisualizer'; 
 import StackQueueVisualizer from './components/Visualizers/StackQueueVisualizer';
 import LinkedListVisualizer from './components/Visualizers/LinkedListVisualizer';
