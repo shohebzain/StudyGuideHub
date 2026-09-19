@@ -7,7 +7,7 @@ export default function GraphVisualizer() {
   const [activeTab, setActiveTab] = useState<'sandbox' | 'grid'>('sandbox');
 
   // ---- TAB 1: GRAPH SANDBOX SYSTEM ----
-  const [nodes, setNodes] = useState<GraphNode[]>([
+  const [nodes, setNodes] = useState<GraphNode[]>([ 
     { id: 'A', label: 'A', x: 80, y: 50 },
     { id: 'B', label: 'B', x: 260, y: 50 }, 
     { id: 'C', label: 'C', x: 80, y: 170 },
