@@ -3,7 +3,7 @@ import { Compass, Plus, Trash2, Play, Circle, Grid, RefreshCw, Layers } from 'lu
 import { GraphNode, GraphEdge, VizStep } from '../../types';
 import { audioService } from '../../utils/audio'; 
 
-export default function GraphVisualizer() {
+export default function GraphVisualizer() { 
   const [activeTab, setActiveTab] = useState<'sandbox' | 'grid'>('sandbox');
 
   // ---- TAB 1: GRAPH SANDBOX SYSTEM ----
