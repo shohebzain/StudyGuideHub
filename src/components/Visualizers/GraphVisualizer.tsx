@@ -8,7 +8,7 @@ export default function GraphVisualizer() {
 
   // ---- TAB 1: GRAPH SANDBOX SYSTEM ----
   const [nodes, setNodes] = useState<GraphNode[]>([ 
-    { id: 'A', label: 'A', x: 80, y: 50 },
+    { id: 'A', label: 'A', x: 80, y: 50 }, 
     { id: 'B', label: 'B', x: 260, y: 50 }, 
     { id: 'C', label: 'C', x: 80, y: 170 },
     { id: 'D', label: 'D', x: 260, y: 170 },
