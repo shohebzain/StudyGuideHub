@@ -5,7 +5,7 @@ import { audioService } from '../../utils/audio';
 
 export default function GraphVisualizer() {  
   const [activeTab, setActiveTab] = useState<'sandbox' | 'grid'>('sandbox');
-
+ 
   // ---- TAB 1: GRAPH SANDBOX SYSTEM ----
   const [nodes, setNodes] = useState<GraphNode[]>([ 
     { id: 'A', label: 'A', x: 80, y: 50 }, 
