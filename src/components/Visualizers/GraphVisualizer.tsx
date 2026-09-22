@@ -11,7 +11,7 @@ export default function GraphVisualizer() {
     { id: 'A', label: 'A', x: 80, y: 50 }, 
     { id: 'B', label: 'B', x: 260, y: 50 },  
     { id: 'C', label: 'C', x: 80, y: 170 },
-    { id: 'D', label: 'D', x: 260, y: 170 },
+    { id: 'D', label: 'D', x: 260, y: 170 }, 
     { id: 'E', label: 'E', x: 440, y: 110 }
   ]);
   const [edges, setEdges] = useState<GraphEdge[]>([
