@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Compass, Plus, Trash2, Play, Circle, Grid, RefreshCw, Layers } from 'lucide-react';
 import { GraphNode, GraphEdge, VizStep } from '../../types';
-import { audioService } from '../../utils/audio'; 
+import { audioService } from '../../utils/audio';  
 
 export default function GraphVisualizer() {  
   const [activeTab, setActiveTab] = useState<'sandbox' | 'grid'>('sandbox');
