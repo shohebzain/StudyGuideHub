@@ -13,7 +13,7 @@ StudyGuideHub is a modern full-stack educational platform designed to simplify D
 Visualize algorithms step-by-step with real-time animations.
  
 #### Sorting Algorithms
-
+ 
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
