@@ -1,4 +1,4 @@
-# 📚 StudyGuideHub
+# 📚 StudyGuideHub 
 
 An AI-powered interactive platform for mastering Data Structures & Algorithms through visualizations, coding practice, structured roadmaps, and intelligent tutoring.
 
