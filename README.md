@@ -6,7 +6,7 @@ StudyGuideHub is a modern full-stack educational platform designed to simplify D
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ### 📊 Interactive Algorithm Visualizers
 
